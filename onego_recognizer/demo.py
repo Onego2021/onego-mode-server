@@ -1,3 +1,4 @@
+#-*- coding: utf-8 -*-
 import string
 import argparse
 
@@ -42,6 +43,7 @@ def demo(opt):
         collate_fn=AlignCollate_demo, pin_memory=True)
 
     # predict
+    pred_list = []
     model.eval()
     with torch.no_grad():
         for image_tensors, image_path_list in demo_loader:
@@ -77,6 +79,7 @@ def demo(opt):
 
             preds_prob = F.softmax(preds, dim=2)
             preds_max_prob, _ = preds_prob.max(dim=2)
+            pred_row = []
             for img_name, pred, pred_max_prob in zip(image_path_list, preds_str, preds_max_prob):
                 if 'Attn' in opt.Prediction:
                     pred_EOS = pred.find('[s]')
@@ -85,13 +88,19 @@ def demo(opt):
 
                 # calculate confidence score (= multiply of pred_max_prob)
                 confidence_score = pred_max_prob.cumprod(dim=0)[-1]
+                pred_row.append(pred)
+                if len(pred_row) == 20:
+                    pred_list.append(pred_row)
+                    pred_row = []
 
                 print(f'{img_name:25s}\t{pred:25s}\t{confidence_score:0.4f}')
                 log.write(f'{img_name:25s}\t{pred:25s}\t{confidence_score:0.4f}\n')
 
             log.close()
 
-if __name__ == '__main__':
+        return pred_list
+
+if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--image_folder', required=True, help='path to image_folder which contains text images')
     parser.add_argument('--workers', type=int, help='number of data loading workers', default=4)
@@ -106,10 +115,10 @@ if __name__ == '__main__':
     parser.add_argument('--sensitive', action='store_true', help='for sensitive character mode')
     parser.add_argument('--PAD', action='store_true', help='whether to keep ratio then pad for image resize')
     """ Model Architecture """
-    parser.add_argument('--Transformation', type=str, required=True, help='Transformation stage. None|TPS')
-    parser.add_argument('--FeatureExtraction', type=str, required=True, help='FeatureExtraction stage. VGG|RCNN|ResNet')
-    parser.add_argument('--SequenceModeling', type=str, required=True, help='SequenceModeling stage. None|BiLSTM')
-    parser.add_argument('--Prediction', type=str, required=True, help='Prediction stage. CTC|Attn')
+    parser.add_argument('--Transformation', type=str, default="TPS", help='Transformation stage. None|TPS')
+    parser.add_argument('--FeatureExtraction', type=str, default="ResNet", help='FeatureExtraction stage. VGG|RCNN|ResNet')
+    parser.add_argument('--SequenceModeling', type=str, default="BiLSTM", help='SequenceModeling stage. None|BiLSTM')
+    parser.add_argument('--Prediction', type=str, default="Attn", help='Prediction stage. CTC|Attn')
     parser.add_argument('--num_fiducial', type=int, default=20, help='number of fiducial points of TPS-STN')
     parser.add_argument('--input_channel', type=int, default=1, help='the number of input channel of Feature extractor')
     parser.add_argument('--output_channel', type=int, default=512,
@@ -126,4 +135,6 @@ if __name__ == '__main__':
     cudnn.deterministic = True
     opt.num_gpu = torch.cuda.device_count()
 
-    demo(opt)
+    pred_list = demo(opt)
+
+    #return pred_list
