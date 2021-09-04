@@ -100,7 +100,7 @@ def demo(opt):
 
         return pred_list
 
-if __name__ == "__main__":
+def start_model():
     parser = argparse.ArgumentParser()
     parser.add_argument('--image_folder', required=True, help='path to image_folder which contains text images')
     parser.add_argument('--workers', type=int, help='number of data loading workers', default=4)
@@ -137,4 +137,4 @@ if __name__ == "__main__":
 
     pred_list = demo(opt)
 
-    #return pred_list
+    return pred_list
