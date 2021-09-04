@@ -3,6 +3,8 @@ import numpy as np
 import argparse
 import cv2
 import imutils
+import os
+import sys
 
 def order_points(pts):
 	rect = np.zeros((4, 2), dtype = "float32")
@@ -37,9 +39,8 @@ def four_point_transform(image, pts):
 	# return the warped image
 	return warped
 
-def manuscript_scanner(manuscript):
-    cnt = 0
-    for img in manuscript:
+def manuscript_scanner(img):
+
         manuscript_img = cv2.imread(img)
         ratio = manuscript_img.shape[0] / 500.0
         orign_img = manuscript_img.copy()
@@ -50,8 +51,8 @@ def manuscript_scanner(manuscript):
         gray = cv2.GaussianBlur(gray, (5,5), 0)
         edged = cv2.Canny(gray, 75, 200)
 
-#        cv2.imshow("Manuscript_Img", manuscript_img)
-#        cv2.imshow("Edged_Manuscript_Img", edged)
+        #        cv2.imshow("Manuscript_Img", manuscript_img)
+        #        cv2.imshow("Edged_Manuscript_Img", edged)
         cv2.waitKey(0)
         cv2.destroyAllWindows()
 
@@ -61,14 +62,14 @@ def manuscript_scanner(manuscript):
         contours = sorted(contours, key = cv2.contourArea, reverse = True)[:5]
 
         for cnts in contours:
-            per = cv2.arcLength(cnts, True)
-            approx = cv2.approxPolyDP(cnts, 0.02 * per, True)
+                per = cv2.arcLength(cnts, True)
+                approx = cv2.approxPolyDP(cnts, 0.02 * per, True)
 
-            if len(approx) == 4:
-                screenContours = approx
-                break
+                if len(approx) == 4:
+                        screenContours = approx
+                        break
         cv2.drawContours(manuscript_img, [screenContours], -1, (0, 255, 0), 2)
-        cv2.imshow("Outline of Manuscript", manuscript_img)
+        # cv2.imshow("Outline of Manuscript", manuscript_img)
         cv2.waitKey(0)
         cv2.destroyAllWindows()
 
@@ -79,8 +80,11 @@ def manuscript_scanner(manuscript):
         T = threshold_local(warped, 11, offset = 10, method="gaussian")
         warped = (warped > T).astype("uint8") * 255
 
-#        cv2.imshow("Original_Manuscript", imutils.resize(orign_img, height=650))
-#        cv2.imshow("Scanned_Manuscript", imutils.resize(warped, height=650))
+        # cv2.imshow("Original_Manuscript", imutils.resize(orign_img, height=650))
+        # cv2.imshow("Scanned_Manuscript", imutils.resize(warped, height=650))
 
-        cv2.imwrite("input/manuscript_scan/"+str(cnt)+".jpg", warped)
-        cnt += 1
+        cv2.imwrite("C:/Users/bamin/Project/onego-model-server/input/manuscript_scan/"+str(1)+".jpg", warped)
+
+        return warped
+
+        
