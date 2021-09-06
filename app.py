@@ -1,8 +1,11 @@
+# -- coding: utf-8 --
+
 from flask import Flask, request, jsonify
 import json, boto3, os
+from werkzeug.utils import secure_filename
 from aws_config import AWS_ACCESS_KEY, AWS_SECRET_ACCESS_KEY, AWS_S3_BUCKET_NAME
-# from aws_connect import s3_connection, s3_get_object
 app = Flask(__name__)
+app.config['JSON_AS_ASCII'] = False
 s3 = boto3.client('s3',
     aws_access_key_id = AWS_ACCESS_KEY,
     aws_secret_access_key = AWS_SECRET_ACCESS_KEY,
@@ -12,21 +15,39 @@ s3 = boto3.client('s3',
 def hello():
     return 'Hello, world'
 
-@app.route("/onego_detect", methods=["POST"])
-def onego_detect():
-    image = "onego_detect"
-    return image
+@app.route("/")
+def onego_hello():
+    return "Welcome to ONEGO!"
 
-@app.route("/onego_recognize", methods=["GET"])
+@app.route("/onego_recognize", methods=['POST','GET'])
 def onego_recognize():
-    image = "onego_recognize"
-    return image
+    file = ""
+    filename = ""
+    path = "input/manuscript_input" + filename
 
+    if request.method == 'POST':
+        file = request.file['file']
+        filename = secure_filename(file.filename)
+        file.save(os.path.join(path))
+    elif request.method == 'GET':
+        pred_list = ["원","고","지", " ", "인", "식", "이", " ", "돼", "어", "잇", "는", "파", "일", "입", "니", "다", "."]
+        # pred_list = start_recognize(path)
+        return jsonify({"predList":pred_list})
+    
 @app.route("/test", methods=["GET"])
 def testPostAPI():
     temp = request.args["uid"]
-    data = {'txt' : "test data", 'uid' : temp}
-    return jsonify(data)
+    data = "test data"
+    return jsonify({
+        'result': data,
+        'uid' : temp,
+    })
+
+# @app.route("/test", methods=["GET"])
+# def testPostAPI():
+#     temp = request.args["uid"]
+#     data = {'txt' : "test data", 'uid' : temp}
+#     return jsonify(data)
 
 @app.route("/file_download", methods = ["GET"])
 def file_download():
