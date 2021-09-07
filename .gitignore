@@ -224,3 +224,6 @@ pip-selfcheck.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,flask,virtualenv
 aws_config.py
+onegovenv/
+tmp/
+input/
