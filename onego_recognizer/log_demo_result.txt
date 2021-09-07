@@ -1,0 +1,961 @@
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot0.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot1.jpg	드                        	0.9019
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot2.jpg	독                        	0.9998
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot3.jpg	저                        	0.9998
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot4.jpg	감                        	0.4633
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot5.jpg	장                        	0.9173
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot6.jpg	뭐                        	0.2836
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot7.jpg	그                        	0.6957
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot8.jpg	                         	0.9997
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot9.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot10.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot11.jpg	흩                        	0.3260
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot12.jpg	                         	0.9999
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot13.jpg	                         	0.9986
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot14.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot15.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot16.jpg	                         	0.9010
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot17.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot18.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot19.jpg	                         	0.9998
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot20.jpg	                         	0.9999
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot21.jpg	                         	0.9999
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot22.jpg	의                        	0.3887
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot23.jpg	치                        	0.9254
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot24.jpg	                         	0.2177
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot25.jpg	만                        	0.6984
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot26.jpg	늬                        	0.5490
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot27.jpg	습                        	0.5979
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot28.jpg	말                        	0.0496
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot29.jpg	끄                        	0.9583
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot30.jpg	                         	0.9999
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot31.jpg	있                        	0.8788
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot32.jpg	는                        	0.8509
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot33.jpg	습                        	0.6115
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot34.jpg	안                        	0.4255
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot35.jpg	이                        	0.9843
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot36.jpg	뽑                        	0.9274
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot37.jpg	숨                        	0.3018
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot38.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot39.jpg	홉                        	0.2596
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot40.jpg	                         	0.9999
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot41.jpg	                         	0.9999
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot42.jpg	                         	0.9999
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot43.jpg	그                        	0.9582
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot44.jpg	                         	0.9391
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot45.jpg	빨                        	0.9771
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot46.jpg	간                        	0.9955
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot47.jpg	솥                        	0.1864
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot48.jpg	매                        	0.9951
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot49.jpg	미                        	0.7735
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot50.jpg	그                        	0.5537
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot51.jpg	름                        	0.2317
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot52.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot53.jpg	읽                        	0.9998
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot54.jpg	고                        	0.9993
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot55.jpg	그                        	0.9437
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot56.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot57.jpg	                         	0.9999
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot58.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot59.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot60.jpg	                         	0.9997
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot61.jpg	                         	0.9999
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot62.jpg	                         	0.9999
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot63.jpg	                         	0.9999
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot64.jpg	                         	0.9998
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot65.jpg	                         	0.9996
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot66.jpg	                         	0.9999
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot67.jpg	                         	0.9999
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot68.jpg	숨                        	0.1228
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot69.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot70.jpg	                         	0.9944
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot71.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot72.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot73.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot74.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot75.jpg	                         	0.9409
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot76.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot77.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot78.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot79.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot80.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot81.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot82.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot83.jpg	                         	0.9965
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot84.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot85.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot86.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot87.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot88.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot89.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot90.jpg	쏟                        	0.1487
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot91.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot92.jpg	                         	0.9999
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot93.jpg	                         	0.9971
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot94.jpg	                         	0.9997
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot95.jpg	습                        	0.5195
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot96.jpg	환                        	0.7468
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot97.jpg	웃                        	0.3277
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot98.jpg	리                        	0.9993
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot99.jpg	끝                        	0.9236
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot100.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot101.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot102.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot103.jpg	                         	0.9682
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot104.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot105.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot106.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot107.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot108.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot109.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot110.jpg	                         	0.9982
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot111.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot112.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot113.jpg	                         	0.9999
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot114.jpg	                         	0.9987
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot115.jpg	솥                        	0.2705
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot116.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot117.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot118.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot119.jpg	                         	0.9999
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot120.jpg	                         	1.0000
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot121.jpg	                         	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot0.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot1.jpg	드                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot2.jpg	독                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot3.jpg	저                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot4.jpg	감                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot5.jpg	장                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot6.jpg	뭐                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot7.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot8.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot9.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot10.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot11.jpg	흩                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot12.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot13.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot14.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot15.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot16.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot17.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot18.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot19.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot20.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot21.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot22.jpg	의                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot23.jpg	치                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot24.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot25.jpg	만                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot26.jpg	늬                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot27.jpg	습                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot28.jpg	말                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot29.jpg	끄                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot30.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot31.jpg	있                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot32.jpg	는                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot33.jpg	습                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot34.jpg	안                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot35.jpg	이                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot36.jpg	뽑                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot37.jpg	숨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot38.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot39.jpg	홉                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot40.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot41.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot42.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot43.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot44.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot45.jpg	빨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot46.jpg	간                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot47.jpg	솥                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot48.jpg	매                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot49.jpg	미                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot50.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot51.jpg	름                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot52.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot53.jpg	읽                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot54.jpg	고                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot55.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot56.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot57.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot58.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot59.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot60.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot61.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot62.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot63.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot64.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot65.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot66.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot67.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot68.jpg	숨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot69.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot70.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot71.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot72.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot73.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot74.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot75.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot76.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot77.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot78.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot79.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot80.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot81.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot82.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot83.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot84.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot85.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot86.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot87.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot88.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot89.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot90.jpg	쏟                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot91.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot92.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot93.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot94.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot95.jpg	습                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot96.jpg	환                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot97.jpg	웃                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot98.jpg	리                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot99.jpg	끝                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot100.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot101.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot102.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot103.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot104.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot105.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot106.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot107.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot108.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot109.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot110.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot111.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot112.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot113.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot114.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot115.jpg	솥                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot116.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot117.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot118.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot119.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot120.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot121.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot122.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot123.jpg	빨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot124.jpg	간                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot125.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot126.jpg	매                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot127.jpg	리                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot128.jpg	즈                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot129.jpg	후                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot130.jpg	쿠                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot131.jpg	다                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot132.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot133.jpg	이                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot134.jpg	와                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot135.jpg	외                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot136.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot137.jpg	글                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot138.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot139.jpg	행                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot140.jpg	영                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot141.jpg	밉                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot142.jpg	홉                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot143.jpg	책                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot144.jpg	읽                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot145.jpg	는                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot146.jpg	곰                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot147.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot148.jpg	펴                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot149.jpg	냄                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot150.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot151.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot152.jpg	든                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot153.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot154.jpg	쿠                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot155.jpg	어                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot156.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot157.jpg	공                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot158.jpg	챔                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot159.jpg	을                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot160.jpg	국                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot161.jpg	사                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot162.jpg	런                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot163.jpg	습                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot164.jpg	뭄                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot165.jpg	국                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot166.jpg	점                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot167.jpg	에                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot168.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot169.jpg	갖                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot170.jpg	다                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot171.jpg	가                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot172.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot173.jpg	우                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot174.jpg	연                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot175.jpg	히                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot176.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot177.jpg	량                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot178.jpg	딴                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot179.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot180.jpg	짜                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot181.jpg	다                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot182.jpg	누                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot183.jpg	우                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot184.jpg	캐                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot185.jpg	훨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot186.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot187.jpg	훈흰                       	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot188.jpg	친                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot189.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot190.jpg	민                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot191.jpg	림                        	
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot192.jpg	이                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot193.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot194.jpg	이                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot195.jpg	치                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot196.jpg	의                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot197.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot198.jpg	내                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot199.jpg	면                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot200.jpg	쩍                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot201.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot202.jpg	할                        	
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot0.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot1.jpg	드                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot2.jpg	독                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot3.jpg	저                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot4.jpg	감                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot5.jpg	장                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot6.jpg	뭐                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot7.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot8.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot9.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot10.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot11.jpg	흩                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot12.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot13.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot14.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot15.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot16.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot17.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot18.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot19.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot20.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot21.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot22.jpg	의                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot23.jpg	치                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot24.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot25.jpg	만                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot26.jpg	늬                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot27.jpg	습                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot28.jpg	말                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot29.jpg	끄                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot30.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot31.jpg	있                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot32.jpg	는                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot33.jpg	습                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot34.jpg	안                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot35.jpg	이                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot36.jpg	뽑                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot37.jpg	숨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot38.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot39.jpg	홉                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot40.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot41.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot42.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot43.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot44.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot45.jpg	빨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot46.jpg	간                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot47.jpg	솥                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot48.jpg	매                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot49.jpg	미                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot50.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot51.jpg	름                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot52.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot53.jpg	읽                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot54.jpg	고                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot55.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot56.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot57.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot58.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot59.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot60.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot61.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot62.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot63.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot64.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot65.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot66.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot67.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot68.jpg	숨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot69.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot70.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot71.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot72.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot73.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot74.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot75.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot76.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot77.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot78.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot79.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot80.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot81.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot82.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot83.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot84.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot85.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot86.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot87.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot88.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot89.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot90.jpg	쏟                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot91.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot92.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot93.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot94.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot95.jpg	습                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot96.jpg	환                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot97.jpg	웃                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot98.jpg	리                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot99.jpg	끝                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot100.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot101.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot102.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot103.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot104.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot105.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot106.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot107.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot108.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot109.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot110.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot111.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot112.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot113.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot114.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot115.jpg	솥                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot116.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot117.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot118.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot119.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot120.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot121.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot122.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot123.jpg	빨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot124.jpg	간                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot125.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot126.jpg	매                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot127.jpg	리                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot128.jpg	즈                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot129.jpg	후                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot130.jpg	쿠                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot131.jpg	다                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot132.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot133.jpg	이                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot134.jpg	와                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot135.jpg	외                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot136.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot137.jpg	글                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot138.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot139.jpg	행                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot140.jpg	영                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot141.jpg	밉                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot142.jpg	홉                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot143.jpg	책                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot144.jpg	읽                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot145.jpg	는                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot146.jpg	곰                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot147.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot148.jpg	펴                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot149.jpg	냄                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot150.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot151.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot152.jpg	든                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot153.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot154.jpg	쿠                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot155.jpg	어                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot156.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot157.jpg	공                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot158.jpg	챔                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot159.jpg	을                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot160.jpg	국                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot161.jpg	사                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot162.jpg	런                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot163.jpg	습                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot164.jpg	뭄                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot165.jpg	국                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot166.jpg	점                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot167.jpg	에                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot168.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot169.jpg	갖                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot170.jpg	다                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot171.jpg	가                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot172.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot173.jpg	우                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot174.jpg	연                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot175.jpg	히                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot176.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot177.jpg	량                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot178.jpg	딴                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot179.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot180.jpg	짜                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot181.jpg	다                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot182.jpg	누                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot183.jpg	우                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot184.jpg	캐                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot185.jpg	훨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot186.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot187.jpg	훈흰                       	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot188.jpg	친                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot189.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot190.jpg	민                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot191.jpg	림                        	
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot192.jpg	이                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot193.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot194.jpg	이                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot195.jpg	치                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot196.jpg	의                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot197.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot198.jpg	내                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot199.jpg	면                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot200.jpg	쩍                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot201.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot202.jpg	할                        	
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot0.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot1.jpg	드                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot2.jpg	독                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot3.jpg	저                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot4.jpg	감                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot5.jpg	장                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot6.jpg	뭐                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot7.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot8.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot9.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot10.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot11.jpg	흩                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot12.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot13.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot14.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot15.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot16.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot17.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot18.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot19.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot20.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot21.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot22.jpg	의                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot23.jpg	치                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot24.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot25.jpg	만                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot26.jpg	늬                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot27.jpg	습                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot28.jpg	말                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot29.jpg	끄                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot30.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot31.jpg	있                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot32.jpg	는                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot33.jpg	습                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot34.jpg	안                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot35.jpg	이                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot36.jpg	뽑                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot37.jpg	숨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot38.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot39.jpg	홉                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot40.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot41.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot42.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot43.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot44.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot45.jpg	빨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot46.jpg	간                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot47.jpg	솥                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot48.jpg	매                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot49.jpg	미                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot50.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot51.jpg	름                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot52.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot53.jpg	읽                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot54.jpg	고                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot55.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot56.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot57.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot58.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot59.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot60.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot61.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot62.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot63.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot64.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot65.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot66.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot67.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot68.jpg	숨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot69.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot70.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot71.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot72.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot73.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot74.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot75.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot76.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot77.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot78.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot79.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot80.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot81.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot82.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot83.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot84.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot85.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot86.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot87.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot88.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot89.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot90.jpg	쏟                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot91.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot92.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot93.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot94.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot95.jpg	습                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot96.jpg	환                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot97.jpg	웃                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot98.jpg	리                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot99.jpg	끝                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot100.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot101.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot102.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot103.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot104.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot105.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot106.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot107.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot108.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot109.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot110.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot111.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot112.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot113.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot114.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot115.jpg	솥                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot116.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot117.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot118.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot119.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot120.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot121.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot122.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot123.jpg	빨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot124.jpg	간                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot125.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot126.jpg	매                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot127.jpg	리                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot128.jpg	즈                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot129.jpg	후                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot130.jpg	쿠                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot131.jpg	다                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot132.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot133.jpg	이                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot134.jpg	와                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot135.jpg	외                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot136.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot137.jpg	글                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot138.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot139.jpg	행                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot140.jpg	영                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot141.jpg	밉                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot142.jpg	홉                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot143.jpg	책                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot144.jpg	읽                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot145.jpg	는                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot146.jpg	곰                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot147.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot148.jpg	펴                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot149.jpg	냄                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot150.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot151.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot152.jpg	든                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot153.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot154.jpg	쿠                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot155.jpg	어                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot156.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot157.jpg	공                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot158.jpg	챔                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot159.jpg	을                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot160.jpg	국                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot161.jpg	사                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot162.jpg	런                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot163.jpg	습                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot164.jpg	뭄                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot165.jpg	국                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot166.jpg	점                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot167.jpg	에                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot168.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot169.jpg	갖                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot170.jpg	다                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot171.jpg	가                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot172.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot173.jpg	우                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot174.jpg	연                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot175.jpg	히                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot176.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot177.jpg	량                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot178.jpg	딴                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot179.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot180.jpg	짜                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot181.jpg	다                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot182.jpg	누                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot183.jpg	우                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot184.jpg	캐                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot185.jpg	훨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot186.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot187.jpg	훈흰                       	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot188.jpg	친                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot189.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot190.jpg	민                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot191.jpg	림                        	
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot192.jpg	이                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot193.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot194.jpg	이                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot195.jpg	치                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot196.jpg	의                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot197.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot198.jpg	내                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot199.jpg	면                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot200.jpg	쩍                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot201.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot202.jpg	할                        	
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot0.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot1.jpg	드                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot2.jpg	독                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot3.jpg	저                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot4.jpg	감                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot5.jpg	장                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot6.jpg	뭐                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot7.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot8.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot9.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot10.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot11.jpg	흩                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot12.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot13.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot14.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot15.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot16.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot17.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot18.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot19.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot20.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot21.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot22.jpg	의                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot23.jpg	치                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot24.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot25.jpg	만                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot26.jpg	늬                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot27.jpg	습                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot28.jpg	말                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot29.jpg	끄                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot30.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot31.jpg	있                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot32.jpg	는                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot33.jpg	습                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot34.jpg	안                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot35.jpg	이                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot36.jpg	뽑                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot37.jpg	숨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot38.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot39.jpg	홉                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot40.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot41.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot42.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot43.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot44.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot45.jpg	빨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot46.jpg	간                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot47.jpg	솥                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot48.jpg	매                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot49.jpg	미                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot50.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot51.jpg	름                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot52.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot53.jpg	읽                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot54.jpg	고                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot55.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot56.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot57.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot58.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot59.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot60.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot61.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot62.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot63.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot64.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot65.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot66.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot67.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot68.jpg	숨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot69.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot70.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot71.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot72.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot73.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot74.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot75.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot76.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot77.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot78.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot79.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot80.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot81.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot82.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot83.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot84.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot85.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot86.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot87.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot88.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot89.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot90.jpg	쏟                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot91.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot92.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot93.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot94.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot95.jpg	습                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot96.jpg	환                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot97.jpg	웃                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot98.jpg	리                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot99.jpg	끝                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot100.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot101.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot102.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot103.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot104.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot105.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot106.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot107.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot108.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot109.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot110.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot111.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot112.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot113.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot114.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot115.jpg	솥                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot116.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot117.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot118.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot119.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot120.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot121.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot122.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot123.jpg	빨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot124.jpg	간                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot125.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot126.jpg	매                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot127.jpg	리                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot128.jpg	즈                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot129.jpg	후                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot130.jpg	쿠                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot131.jpg	다                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot132.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot133.jpg	이                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot134.jpg	와                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot135.jpg	외                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot136.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot137.jpg	글                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot138.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot139.jpg	행                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot140.jpg	영                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot141.jpg	밉                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot142.jpg	홉                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot143.jpg	책                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot144.jpg	읽                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot145.jpg	는                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot146.jpg	곰                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot147.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot148.jpg	펴                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot149.jpg	냄                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot150.jpg	그                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot151.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot152.jpg	든                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot153.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot154.jpg	쿠                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot155.jpg	어                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot156.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot157.jpg	공                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot158.jpg	챔                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot159.jpg	을                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot160.jpg	국                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot161.jpg	사                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot162.jpg	런                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot163.jpg	습                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot164.jpg	뭄                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot165.jpg	국                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot166.jpg	점                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot167.jpg	에                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot168.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot169.jpg	갖                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot170.jpg	다                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot171.jpg	가                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot172.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot173.jpg	우                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot174.jpg	연                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot175.jpg	히                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot176.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot177.jpg	량                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot178.jpg	딴                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot179.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot180.jpg	짜                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot181.jpg	다                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot182.jpg	누                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot183.jpg	우                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot184.jpg	캐                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot185.jpg	훨                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot186.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot187.jpg	훈흰                       	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot188.jpg	친                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot189.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot190.jpg	민                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot191.jpg	림                        	
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot192.jpg	이                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot193.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot194.jpg	이                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot195.jpg	치                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot196.jpg	의                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot197.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot198.jpg	내                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot199.jpg	면                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot200.jpg	쩍                        	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot201.jpg	                         	
+/home/kobot-10/Project/onego-modelserver/input/manuscript_contour/slot202.jpg	할                        	
