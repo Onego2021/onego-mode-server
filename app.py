@@ -5,20 +5,22 @@ import json, boto3, os
 from werkzeug.utils import redirect, secure_filename
 from aws_config import AWS_ACCESS_KEY, AWS_SECRET_ACCESS_KEY, AWS_S3_BUCKET_NAME
 from util.manuscript_recognizer import start_recognize
+
 app = Flask(__name__)
 app.config['JSON_AS_ASCII'] = False
 s3 = boto3.client('s3',
     aws_access_key_id = AWS_ACCESS_KEY,
     aws_secret_access_key = AWS_SECRET_ACCESS_KEY,
 )
+
 model_base_url = 'http://3.38.9.213:5000'
 main_base_url = 'http://3.34.215.157:3000'
 
 @app.route('/', methods=["GET"])
 def hello():
-    pred_list = start_recognize('/home/kobot-10/Project/onego-modelserver/input/manuscript_input/onego2.png')
+    # img_path = "/home/ubuntu/onego-model-server/input/manuscript_input/onego2.png"
     
-    return json.dumps(pred_list, ensure_ascii=False)
+    return "Wellcome onego-model-server!!"
 
 @app.route("/")
 def onego_hello():
@@ -26,13 +28,12 @@ def onego_hello():
 
 @app.route("/file_download", methods=['POST','GET'])
 def file_download():
-    pred_list = ["원","고","지", " ", "인", "식", "이", " ", "돼", "어", "잇", "는", "파", "일", "입", "니", "다", "."]
     uid = request.args["uid"]
     file_path = '/home/kobot-10/Project/model-server/input/manuscript_input/{}.png'.format(uid)
     try:
         s3.download_file(AWS_S3_BUCKET_NAME,"{}/Pororo.png".format(uid),file_path)
         print("complete download .png from s3!")
-        pred_list = start_recognize('/home/kobot-10/Project/model-server/input/manuscript_input/onego1.png')
+        pred_list = start_recognize('/home/kobot-10/Project/model-server/input/manuscript_input/{}.png'.format(uid))
 
         os.makedirs('./tmp', exist_ok=True)
         f = open('./tmp/{}.txt'.format(uid),'w',encoding='UTF-8')
