@@ -67,10 +67,10 @@ def start_recognize(path):
     # cv2.imshow('removed', removed)
     # cv2.waitKey()    
 
-    cv2.imwrite("C:/Users/bamin/Project/onego-modelserver/input/manuscript_scan/"+"before_ocr"+".jpg", removed)
+    cv2.imwrite("/home/ubuntu/onego-model-server/input/manuscript_scan/"+"before_ocr"+".jpg", removed)
     
     reader = easyocr.Reader(['ko'], gpu=False)
-    result_OCR = reader.readtext("C:/Users/bamin/Project/onego-modelserver/input/manuscript_scan/"+"before_ocr"+".jpg")
+    result_OCR = reader.readtext("/home/ubuntu/onego-model-server/input/manuscript_scan/"+"before_ocr"+".jpg")
 
     result = ''
     for i in result_OCR:
@@ -86,3 +86,5 @@ def start_recognize(path):
     result = result.replace(')', '')
 
     print(result)
+
+    return result

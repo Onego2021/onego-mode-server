@@ -18,8 +18,8 @@ main_base_url = 'http://3.34.215.157:3000'
 
 @app.route('/', methods=["GET"])
 def hello():
-    # img_path = "/home/ubuntu/onego-model-server/input/manuscript_input/onego2.png"
-    
+    img_path = "/home/ubuntu/onego-model-server/input/manuscript_input/onego2.png"
+    start_recognize(img_path)
     return "Wellcome onego-model-server!!"
 
 @app.route("/")
@@ -29,16 +29,15 @@ def onego_hello():
 @app.route("/file_download", methods=['POST','GET'])
 def file_download():
     uid = request.args["uid"]
-    file_path = '/home/kobot-10/Project/model-server/input/manuscript_input/{}.png'.format(uid)
+    file_path = '/home/ubuntu/onego-model-server/input/manuscript_input/{}.png'.format(uid)
     try:
         s3.download_file(AWS_S3_BUCKET_NAME,"{}/Pororo.png".format(uid),file_path)
         print("complete download .png from s3!")
-        pred_list = start_recognize('/home/kobot-10/Project/model-server/input/manuscript_input/{}.png'.format(uid))
+        pred_list = start_recognize('/home/ubuntu/onego-model-server/input/manuscript_input/{}.png'.format(uid))
 
         os.makedirs('./tmp', exist_ok=True)
         f = open('./tmp/{}.txt'.format(uid),'w',encoding='UTF-8')
-        pred_str = ''.join(pred_list)
-        f.write(pred_str)
+        f.write(pred_list)
         f.close()
         print('Complete create file')
         try:
