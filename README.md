@@ -63,10 +63,11 @@ $ sudo apt install python3-flask
 <br>
 
 ## OCR 이미지
+![onego3](https://user-images.githubusercontent.com/28584299/132631906-fedf4257-ca1a-448f-8172-f4005a87ee03.jpg)
 
+![capture](https://user-images.githubusercontent.com/28584299/132631892-c21c1b6c-3994-4999-8154-da4401273954.PNG)
 
-
-
+<br>
 
 ## 개발자
 
